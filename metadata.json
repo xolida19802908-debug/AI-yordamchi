@@ -1,0 +1,6 @@
+{
+  "name": "USTOZ AI — Ustoz yordamchisi",
+  "description": "O‘zbekiston o‘qituvchilari uchun sun'iy intellekt asosidagi zamonaviy yordamchi platforma. Dars ishlanmalari, testlar, savollar, uy vazifalari va interaktiv metodikalar yaratish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
